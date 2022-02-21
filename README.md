@@ -2,4 +2,4 @@
 
 Repositorio con las Katas del curso propedútico de Python para Launch X / Innovacción Virtual.
 
-@AlbertoCopado
+<a href="https://github.com/AlbertoCopado">@AlbertoCopado</a>
